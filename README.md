@@ -7,4 +7,6 @@ The purpose of this analysis is to identify key trends, assess the severity of t
 ## Data Description
 The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, which contains summarized COVID-19 statistics for countries around the world.[Data source](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
+#### Data Description
+
 
