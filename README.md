@@ -1,4 +1,4 @@
-<img width="2180" height="70" alt="image" src="https://github.com/user-attachments/assets/d5e4e1bf-e45d-43b7-bd83-ad72011dd51e" /># Covid-19-Analysis
+# Covid-19-Analysis
 ## Introduction
 The COVID-19 pandemic had a significant impact on countries worldwide, affecting public health systems, economies, and social activities. This report presents an analysis of the COVID-19 country-wise dataset to understand the distribution of confirmed cases, deaths, recoveries, and active cases across different countries and World Health Organization (WHO) regions.
 
@@ -13,17 +13,17 @@ The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, 
 * Analysis Tool:Microsoft excel, Microsoft Power BI.
 
 ### Key Variables
-Country/Region Name of Country
-Confirmed Total Confirmed Cases
-Deaths Total Deaths
-Recovered Total Recovered Cases
-Active Active Cases
-New Cases Newly Reported Cases
-New Deaths Newly Reported Deaths
-New Recovered Newly Recovered Cases
-Death per 100 cases represent the percentage of confirmed cases that resulted in death
-Recoverd per 100 cases represent the percentage of confirmed cases that Recovered
-Death per 100 recovered represent the relationsgip between deaths and recoveries
-WHO Region WHO Geographical Classification
+* Country/Region -- Name of Country
+* Confirmed Total Confirmed Cases
+* Deaths Total Deaths
+* Recovered Total Recovered Cases
+* Active Active Cases
+* New Cases Newly Reported Cases
+* New Deaths Newly Reported Deaths
+* New Recovered Newly Recovered Cases
+* Death per 100 cases represent the percentage of confirmed cases that resulted in death
+* Recoverd per 100 cases represent the percentage of confirmed cases that Recovered
+* Death per 100 recovered represent the relationsgip between deaths and recoveries
+* WHO Region WHO Geographical Classification
 
 
