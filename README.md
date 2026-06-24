@@ -42,8 +42,10 @@ Then after cleaning, the dataset was imported into Microsoft power Bi for analys
 #### Calculated Measures
 **Death Rate**
 Death Rate = (Deaths ÷ Confirmed cases) x 100
+
 **Recovery Rate**
 Recovery Rate = (Recovered cases ÷ Confirmed cases) x 100
+
 **Active case Rate**
 Active case rate = (Active cases ÷ Confirmed cases) x 100
 
