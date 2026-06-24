@@ -54,6 +54,7 @@ Contries were classied into :
 * High risk
 * Medium risk
 * Low Risk
+
 Based on their morality rate
 
 #### Visualization Techniques
@@ -66,3 +67,21 @@ The following power Bi visuals were utilized
 * Slicers
 
 #### Dashboard Development
+The project consist of 4 Dashboard pages
+#### Dashboard 1 : **Summary Dashboard**
+Contains:
+* Total Confirmed Cases
+* Total Deaths
+* Total Recovered Cases
+* Total Active Cases
+* Number of Countries
+* Death Rate
+* Recovery Rate
+* Highest Confirmed Country
+* Highest Death Country
+* Highest Recovered Country
+* Most Affected Region
+* Least Affected Region
+* Country and Who region slicers
+
+Purpose: To
