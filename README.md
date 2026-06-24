@@ -9,21 +9,23 @@ The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, 
 
 #### Data Description
 * Number of Countries: 187
-* Data Type: Structured Tabular Dataset in Rows and columns
+* Data Type: Structured Tabular Dataset in Rows and columns where
+* Rows represent countries
+* Columns represent Each country Covid 19 varibles.
 * Analysis Tool:Microsoft excel, Microsoft Power BI.
 
 ### Key Variables
 * Country/Region -- Name of Country
-* Confirmed Total Confirmed Cases
-* Deaths Total Deaths
-* Recovered Total Recovered Cases
-* Active Active Cases
-* New Cases Newly Reported Cases
-* New Deaths Newly Reported Deaths
-* New Recovered Newly Recovered Cases
-* Death per 100 cases represent the percentage of confirmed cases that resulted in death
-* Recoverd per 100 cases represent the percentage of confirmed cases that Recovered
-* Death per 100 recovered represent the relationsgip between deaths and recoveries
-* WHO Region WHO Geographical Classification
+* Confirmed -- Total Confirmed Cases
+* Deaths -- Total Deaths
+* Recovered -- Total Recovered Cases
+* Active -- Active Cases
+* New Cases -- Newly Reported Cases
+* New Deaths -- Newly Reported Deaths
+* New Recovered -- Newly Recovered Cases
+* Death per 100 cases -- represent the percentage of confirmed cases that resulted in death
+* Recoverd per 100 cases -- represent the percentage of confirmed cases that Recovered
+* Death per 100 recovered -- represent the relationsgip between deaths and recoveries
+* WHO Region(World Health Organisation) -- WHO Geographical Classification
 
-
+### Methodology
