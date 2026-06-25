@@ -116,7 +116,6 @@ Contains:
 
 ## Analysis and findings
 #### Global Statistics
-## Global Statistics
 
 The analysis revealed the following global COVID-19 statistics:
 
@@ -135,4 +134,27 @@ The analysis revealed the following global COVID-19 statistics:
 - Approximately **9 million individuals recovered** from COVID-19.
 - Around **6 million active cases** remained at the time of data collection.
 - The pandemic affected **187 countries and territories** worldwide.
+
+#### Country-Level Findings
+
+**Highest Confirmed Cases**
+**Country**:
+United States
+**Confirmed Cases**:
+4.29 Million+
+The United States experienced the largest number of infections globally.
+
+**Highest Death Count**
+**Country**:
+United States
+**Deaths**:
+148,011
+This indicates a substantial mortality burden.
+
+**Highest Recovered Cases**
+**Country**:
+Brazil
+**Recovered**:
+1.84 Million+
+Brazil recorded the highest number of recoveries within the dataset.
 
