@@ -2,9 +2,16 @@
  ## 1. Introduction
 The COVID-19 pandemic had a significant impact on countries worldwide, affecting public health systems, economies, and social activities. This report presents an analysis of the COVID-19 country-wise dataset to understand the distribution of confirmed cases, deaths, recoveries, and active cases across different countries and World Health Organization (WHO) regions.
 
-The purpose of this analysis is to identify key trends, assess the severity of the pandemic, evaluate recovery performance,morality rate,identify most affected countries and region,classify countries based on risk levels and provide insights that can support data-driven decision-making and public health planning.
+The objectives of this analysis are:
 
-2.## Data Description
+* To determine the global distribution of COVID-19 cases.
+* To identify the most affected countries and regions.
+* To evaluate mortality and recovery rates.
+* To assess active case burdens across countries.
+* To classify countries based on risk levels.
+* To provide actionable insights through interactive dashboards.
+
+## 2. Data Description
 The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, which contains summarized COVID-19 statistics for countries around the world.[Data source](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
 #### Datset Characteristics
@@ -28,7 +35,7 @@ The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, 
 * Death per 100 recovered -- represent the relationsgip between deaths and recoveries
 * WHO Region(World Health Organisation) -- WHO Geographical Classification
 
-3.## Methodology
+## 3. Methodology
 #### Data collection
 The Covid-19 dataset was imported into microsoft Excel for cleaning.
 
@@ -114,7 +121,7 @@ Contains:
 
 **Purpose**:Identifies countries requirirng urgent public health attention and countries to avoid while traveling for the main time.
 
-4.## Analysis and findings
+## 4. Analysis and findings
 #### Global Statistics
 
 The analysis revealed the following global COVID-19 statistics:
@@ -188,5 +195,66 @@ More than half of all infected individuals successfully recovered.
 
 This indicates that a significant proportion of infected individuals were still undergoing treatment or monitoring at the time of data collection.
 
+#### Observation
 
-5.## Key insights
+Brazil has the highest recovery rate 1.85M over US.
+
+
+## 5. Key insights
+
+#### Insight 1
+
+The Americas emerged as the epicenter of infections, contributing the largest share of confirmed cases worldwide.
+
+#### Insight 2
+
+The United States consistently ranked highest in both confirmed cases and deaths, indicating widespread transmission and mortality.
+
+#### Insight 3
+
+Global recovery rates exceeded mortality rates by a substantial margin, demonstrating positive healthcare outcomes.
+
+#### Insight 4
+
+COVID-19 remained a significant public health threat due to the large number of active cases still present globally.
+
+#### Insight 5
+
+The impact of COVID-19 varied considerably across regions, highlighting differences in healthcare infrastructure, population density, and response measures.
+
+## 6. Recommendations
+
+Based on the findings, the following recommendations are proposed:
+
+#### Strengthen Disease Surveillance
+
+Governments should maintain robust monitoring systems to detect future outbreaks quickly.
+
+#### Enhance Healthcare Capacity
+
+Healthcare facilities should improve emergency preparedness and treatment capabilities.
+
+#### Focus on High-Risk Countries
+
+Countries classified as high risk should receive additional healthcare support and intervention.
+
+#### Invest in Data Analytics
+
+Organizations should utilize Business Intelligence tools such as Power BI for real-time disease monitoring and decision-making.
+
+## 7. Limitations
+
+The dataset represents a snapshot in time and does not capture daily trends or future developments.
+
+Some country-level reporting differences may affect the comparability of results.
+
+The analysis is dependent on the accuracy of reported COVID-19 statistics.
+
+
+## 8. Conclusion
+
+The COVID-19 pandemic produced significant global health challenges, affecting millions of individuals across 187 countries. Through Power BI visualization and analytical techniques, important patterns regarding infections, deaths, recoveries, and active cases were identified.
+
+The analysis revealed that the Americas region experienced the highest burden of infections, while the United States recorded the largest number of confirmed cases and deaths. Despite the severity of the pandemic, recovery rates remained substantially higher than mortality rates.
+
+The dashboards developed in this project demonstrate how data analytics and business intelligence tools can transform raw health data into actionable insights that support public health planning and decision-making.
