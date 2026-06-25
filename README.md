@@ -84,4 +84,55 @@ Contains:
 * Least Affected Region
 * Country and Who region slicers
 
-Purpose: To
+**Purpose**: To provide high-level overview of the pandemic
+
+#### Dashboard 2 : **WHO region analysis**
+Contains:
+* Sum of active cases
+* sum of recovered cases
+* sum of Death
+* sum of confirmed cases
+
+**Purpose**: To compare pandemic impact across regions
+
+#### Dashboard 3 : **Country analysis**
+Contains:
+* Sum of active cases
+* sum of recovered cases
+* sum of Death
+* sum of confirmed cases
+
+**Purpose**: To compare pandemic impact across Countries.
+
+#### Dashboard 4 : **Risk assesment Dashboard**
+Contains:
+* Risk Level Distribution
+* Active Case Analysis
+* High-Risk Countries
+* Active Case Rate
+* Country Risk Classification
+
+**Purpose**:Identifies countries requirirng urgent public health attention and countries to avoid while traveling for the main time.
+
+## Analysis and findings
+#### Global Statistics
+## Global Statistics
+
+The analysis revealed the following global COVID-19 statistics:
+
+| Metric | Value |
+|---------|---------|
+| Confirmed Cases | 16 Million+ |
+| Deaths | 654 Thousand+ |
+| Recovered Cases | 9 Million+ |
+| Active Cases | 6 Million+ |
+| Countries Affected | 187 |
+
+### Interpretation
+
+- Over **16 million confirmed cases** were recorded globally.
+- More than **654 thousand deaths** were reported.
+- Approximately **9 million individuals recovered** from COVID-19.
+- Around **6 million active cases** remained at the time of data collection.
+- The pandemic affected **187 countries and territories** worldwide.
+
