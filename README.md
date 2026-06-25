@@ -1,10 +1,10 @@
 # Covid-19-Analysis
-## Introduction
+1.## Introduction
 The COVID-19 pandemic had a significant impact on countries worldwide, affecting public health systems, economies, and social activities. This report presents an analysis of the COVID-19 country-wise dataset to understand the distribution of confirmed cases, deaths, recoveries, and active cases across different countries and World Health Organization (WHO) regions.
 
 The purpose of this analysis is to identify key trends, assess the severity of the pandemic, evaluate recovery performance,morality rate,identify most affected countries and region,classify countries based on risk levels and provide insights that can support data-driven decision-making and public health planning.
 
-## Data Description
+2.## Data Description
 The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, which contains summarized COVID-19 statistics for countries around the world.[Data source](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
 #### Datset Characteristics
@@ -28,7 +28,7 @@ The dataset used for this analysis is the Country Wise Latest COVID-19 Dataset, 
 * Death per 100 recovered -- represent the relationsgip between deaths and recoveries
 * WHO Region(World Health Organisation) -- WHO Geographical Classification
 
-## Methodology
+3.## Methodology
 #### Data collection
 The Covid-19 dataset was imported into microsoft Excel for cleaning.
 
@@ -114,7 +114,7 @@ Contains:
 
 **Purpose**:Identifies countries requirirng urgent public health attention and countries to avoid while traveling for the main time.
 
-## Analysis and findings
+4.## Analysis and findings
 #### Global Statistics
 
 The analysis revealed the following global COVID-19 statistics:
@@ -140,21 +140,53 @@ The analysis revealed the following global COVID-19 statistics:
 **Highest Confirmed Cases**
 **Country**:
 United States
+
 **Confirmed Cases**:
 4.29 Million+
+
 The United States experienced the largest number of infections globally.
 
 **Highest Death Count**
+
 **Country**:
 United States
+
 **Deaths**:
 148,011
+
 This indicates a substantial mortality burden.
 
 **Highest Recovered Cases**
 **Country**:
 Brazil
+
 **Recovered**:
 1.84 Million+
+
 Brazil recorded the highest number of recoveries within the dataset.
 
+#### Mortality Findings
+
+**Global Death Rate**:
+3.97%
+
+**Interpretation**:
+Approximately four out of every one hundred confirmed COVID-19 patients died.
+
+
+#### Recovery Findings
+
+**Global Recovery Rate**:
+57.45%
+
+**Interpretation**:
+More than half of all infected individuals successfully recovered.
+
+#### Active Case Findings
+
+**The dataset recorded approximately 6 million active cases globally.**
+
+This indicates that a significant proportion of infected individuals were still undergoing treatment or monitoring at the time of data collection.
+
+
+5.## Key insights
